@@ -1,7 +1,6 @@
 ---
 title: "Josie"
 author: ""
-date: "2/10/2022"
 output: html_document
 ---
 

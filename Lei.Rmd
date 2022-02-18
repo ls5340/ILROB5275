@@ -1,7 +1,6 @@
 ---
 title: "Lei"
 author: ""
-date: "2/18/2022"
 output: html_document
 ---
 
