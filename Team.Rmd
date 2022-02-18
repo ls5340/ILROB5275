@@ -1,7 +1,13 @@
 ---
-title: "A_4"
+title: "Team"
+author: "Lei"
+date: "2/18/2022"
 output: html_document
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 ## R Markdown
 
