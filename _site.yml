@@ -10,6 +10,7 @@ navbar:
       href: Lei.html
     - text: "Ravali"
       href: Ravali.html
+    - text: "Team"
       menu:
         - text: "about"
         - text: "A_4"
