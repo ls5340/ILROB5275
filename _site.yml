@@ -2,17 +2,20 @@ name: "our-website"
 navbar:
   title: "Our Collaborative Website"
   left:
-    - text: "Cars"
-      href: Cars.html
-    - text: "About"
-      href: About.html
-    - text: "Penguins"
+    - text: "Elaine"
+      href: Elaine.html
+    - text: "Josie"
+      href: Josie.html
+    - text: "Lei"
+      href：Lei.html
+    - text: "Ravali"
+      href：Ravali.html
       menu:
         - text: "about"
-        - text: "Penguins_1"
-          href: Penguins_1.html
-        - text: "Penguins_2"
-          href: Penguins_2.html
+        - text: "A_4"
+          href: A_4.html
+        - text: "A_4+"
+          href: A_4+.html
 output_dir: "."
 output:
   html_document:
