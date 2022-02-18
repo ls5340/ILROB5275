@@ -1,0 +1,87 @@
+---
+title: "About"
+author: "bhm48, dl2236, ls929"
+date: "2/10/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## ggplot
+
+```{r, message=FALSE}
+#ggplot lesson 1
+
+library(tidyverse)
+
+head(cars)
+tail(cars, 10)
+
+?ggplot
+#ggplot(data = <DATA>) + 
+#  <GEOM_FUNCTION>(
+#    mapping = aes(<MAPPINGS>),
+    
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y = hwy))
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = cyl, y = hwy))
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = drv, y = class))
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y = hwy, color = class, size = cyl))
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y = hwy, color = cyl, size = class))
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y = hwy, color = class, size = cyl), shape = 1)
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y = hwy), color = "blue")
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y = hwy), color = "blue") +
+  geom_smooth(mapping = aes(x = displ, y = hwy))
+
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) +
+  geom_point(color = "blue") +
+  geom_smooth() +
+  facet_wrap(~ year)
+
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) +
+  geom_point(color = "blue") +
+  geom_smooth() +
+  facet_wrap(~ class, ncol = 2)
+#    stat = <STAT>, 
+#    position = <POSITION>
+#  ) +
+#  <COORDINATE_FUNCTION> +
+#  <FACET_FUNCTION> +
+#  <THEME_FUNCTION>
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
