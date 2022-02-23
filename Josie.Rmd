@@ -32,11 +32,11 @@ Design Projects
 ### Teaching Discipline
 <details>
   <summary>click to expand</summary>
-Creative Writing
+- Creative Writing
 <br>
-Cooking
+- Cooking
 <br>
-Painting
+- Painting
 <br>
-Jewelry making 
+- Jewelry making 
 </details>

@@ -32,7 +32,7 @@ Sports
 ### Teaching Discipline
 <details>
   <summary>click to expand</summary>
-Go 
+- Go 
 <br>
-AutoCAD
+- AutoCAD
 </details>
