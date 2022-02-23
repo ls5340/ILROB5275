@@ -1,5 +1,5 @@
 ---
-title: "jn498"
+title: "ec762"
 author: ""
 output: html_document
 ---
@@ -24,19 +24,14 @@ MILR
 
 ### Hobby
 
-Writing
-Design Projects
+Theatre/Musical
 
 <br>
 
 ### Teaching Discipline
 <details>
   <summary>click to expand</summary>
-- Creative Writing
+- Excel
 <br>
-- Cooking
-<br>
-- Painting
-<br>
-- Jewelry making 
+- Agile Kanban Process
 </details>

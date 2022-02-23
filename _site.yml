@@ -2,14 +2,14 @@ name: "our-website"
 navbar:
   title: "Our Collaborative Website"
   left:
-    - text: "Elaine"
-      href: Elaine.html
-    - text: "Josie"
-      href: Josie.html
-    - text: "Lei"
-      href: Lei.html
-    - text: "Ravali"
-      href: Ravali.html
+    - text: "ec762"
+      href: ec762.html
+    - text: "jn498"
+      href: jn498.html
+    - text: "ls929"
+      href: ls929.html
+    - text: "rr778"
+      href: rr778.html
     - text: "Team"
       menu:
         - text: "about"

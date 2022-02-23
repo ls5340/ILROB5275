@@ -1,5 +1,5 @@
 ---
-title: "jn498"
+title: "rr778"
 author: ""
 output: html_document
 ---
@@ -24,19 +24,14 @@ MILR
 
 ### Hobby
 
-Writing
-Design Projects
+Reading
 
 <br>
 
 ### Teaching Discipline
 <details>
   <summary>click to expand</summary>
-- Creative Writing
+- Magic Trick 
 <br>
-- Cooking
-<br>
-- Painting
-<br>
-- Jewelry making 
+- Editing Resume Tips
 </details>

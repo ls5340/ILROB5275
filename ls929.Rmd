@@ -1,5 +1,5 @@
 ---
-title: "jn498"
+title: "ls929"
 author: ""
 output: html_document
 ---
@@ -18,25 +18,21 @@ Second-Year
 
 ### Major
 
-MILR
+MRP
 
 <br>
 
 ### Hobby
 
-Writing
-Design Projects
+Board Games
+Sports
 
 <br>
 
 ### Teaching Discipline
 <details>
   <summary>click to expand</summary>
-- Creative Writing
+- Go 
 <br>
-- Cooking
-<br>
-- Painting
-<br>
-- Jewelry making 
+- AutoCAD
 </details>
