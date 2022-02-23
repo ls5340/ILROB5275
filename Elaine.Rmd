@@ -29,5 +29,9 @@ Theatre/Musical
 <br>
 
 ### Teaching Discipline
+<details>
+  <summary>click to expand</summary>
 Excel
+<br>
 Agile Kanban Process
+</details>

@@ -29,5 +29,9 @@ Reading
 <br>
 
 ### Teaching Discipline
+<details>
+  <summary>click to expand</summary>
 Magic Trick 
+<br>
 Editing Resume Tips
+</details>
