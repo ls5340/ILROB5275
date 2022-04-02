@@ -4,4 +4,4 @@ output: html_document
 ---
 
 > ### **Team**
-- Destination
+- Weekly Meeting

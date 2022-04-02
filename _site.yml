@@ -13,10 +13,10 @@ navbar:
     - text: "Team"
       menu:
         - text: "about"
-        - text: "A4"
-          href: A4.html
-        - text: "A4+"
-          href: A4+.html
+        - text: "A_4"
+          href: A_4.html
+        - text: "A_4+"
+          href: A_4+.html
 output_dir: "."
 output:
   html_document:
