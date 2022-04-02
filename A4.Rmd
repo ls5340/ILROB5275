@@ -10,9 +10,6 @@ output: html_document
   <br>
 * #### **Destination** 
   inclusive annd collaborative
-
-
-
-
-
-
+  <br>
+  <br>
+- #### **Weekly Meeting**
