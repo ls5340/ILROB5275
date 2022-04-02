@@ -36,3 +36,6 @@ Sports
 <br>
 - Graphic Design
 </details>
+
+![](~/Home/Lei 1.jpg)
+<center> **L1**  </center>
