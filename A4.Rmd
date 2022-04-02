@@ -12,4 +12,4 @@ output: html_document
   inclusive annd collaborative
   <br>
   <br>
-- #### **Weekly Meeting**
+

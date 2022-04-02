@@ -4,4 +4,5 @@ output: html_document
 ---
 
 > ### **Team**
-- Weekly Meeting
+* #### **Weekly Meeting** 
+  4:30pm-5:30pm on Tuesdays
