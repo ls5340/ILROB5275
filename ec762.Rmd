@@ -31,7 +31,7 @@ Theatre/Musical
 ### Teaching Discipline
 <details>
   <summary>click to expand</summary>
-- Excel
+- Origami
 <br>
-- Agile Kanban Process
+- Excel/Agile Kanban Process
 </details>

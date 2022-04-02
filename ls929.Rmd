@@ -32,7 +32,7 @@ Sports
 ### Teaching Discipline
 <details>
   <summary>click to expand</summary>
-- Go 
+- Go Game
 <br>
-- AutoCAD
+- Graphic Design
 </details>
