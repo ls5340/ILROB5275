@@ -9,7 +9,7 @@ output: html_document
   <br>
   <br>
 * #### **Destination** 
-  inclusive annd collaborative
+  inclusive and collaborative
   <br>
   <br>
 

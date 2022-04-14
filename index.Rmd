@@ -11,6 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ### Team Culture
-
-<br>
+- Be tolerant to diversity, Be excellence for work. Enlightened wisdom, Humble atmosphere.
 
