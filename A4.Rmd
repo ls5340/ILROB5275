@@ -12,4 +12,3 @@ output: html_document
   inclusive and collaborative
   <br>
   <br>
-
