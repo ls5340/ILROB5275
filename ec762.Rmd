@@ -33,7 +33,7 @@ Theatre/Musical
   <summary>click to expand</summary>
 - Origami
 <br>
-- Excel/Agile Kanban Process
+- Magic Trick/Excel/Agile Kanban Process
 </details>
 
 <br>
@@ -42,8 +42,12 @@ Theatre/Musical
 
 <center> **E1**  </center>
 
+* 3 Main Types of Origami Folds
+
 <br>
 
 ![](~/Home/ILROB5275/Elaine 2.jpg)
 
 <center> **E2**  </center>
+
+* 21 card trick

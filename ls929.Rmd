@@ -25,6 +25,7 @@ MRP
 ### Hobby
 
 Board Games
+
 Sports
 
 <br>
@@ -43,9 +44,17 @@ Sports
 
 <center> **L1**  </center>
 
+- Associations 
+<br>
+- Rules 
+<br>
+- Strategies 
+<br>
+- Takeaways
 <br>
 
 ![](~/Home/ILROB5275/Lei 2.png)
 
 <center> **L2**  </center>
 
+- Applications
